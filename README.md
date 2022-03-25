@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @safuapy
-- 👀 I’m interested in cryptocurrencies
+- 👀 I’m a Auto-Compounding & BUSD Reflection token
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on defi
 - 📫 How to reach me ...
